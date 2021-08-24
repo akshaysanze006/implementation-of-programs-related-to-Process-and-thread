@@ -38,7 +38,7 @@ int n=r.nextInt(100);
 System.out.println(&quot; &quot;+n); 
 if(n%2==0) //even no
 15 
-Department of Computer Science and Engineering Vedavyasa Institute of Technology 
+
 { 
 Thread ev=new Thread(new even(n)); ev.start(); 
 } 
