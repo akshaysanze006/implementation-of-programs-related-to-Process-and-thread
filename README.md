@@ -1,4 +1,4 @@
-# implementation-of-programs-related-to-Process-and-thread
+# programs-related-to-Process-and-thread
 
 To implement a multi-thread application that has three threads. First thread generates random  integer every 1 second and if the value is even, second thread computes the square of the number  and prints. If the value is odd, the third thread will print the value of cube of the number. Thread: It is a lightweight sub process, a smallest unit of processing. It is a separate path of  execution. 
 Multithreading: Executing several task simultaneously where each and every task is a separate  and independent part of a same program. 
